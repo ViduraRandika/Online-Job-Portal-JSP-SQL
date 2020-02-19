@@ -9,7 +9,7 @@
     <link href="css/theme.css" rel="stylesheet" media="all">
 </head>
 <body>
-	<h1>Todda</h1>
+	
 <% 
 String username=(String)session.getAttribute("username");
 String usertype=(String)session.getAttribute("usertype");
