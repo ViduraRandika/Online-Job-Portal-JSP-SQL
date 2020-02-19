@@ -1,0 +1,29 @@
+.loginsty{
+    background-image:url(banner.png); 
+    height:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.formcon{
+    background-color: white;
+    margin-top:150px;
+    border-radius:25px;
+}
+.synup{
+     background-image:url(banner.png); 
+    height:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 140px;
+   
+    
+}
+.formsign{
+   
+    background-color: white;
+    margin-top:100px;
+    padding-bottom: 100px;
+    border-radius:25px;
+}
